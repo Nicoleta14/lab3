@@ -2,7 +2,7 @@ name: Build and deploy a container to an Azure Web App
 
 env:
   AZURE_WEBAPP_NAME: application  # Setează acest nume la numele aplicației tale Azure Web App
-  RESOURCE_GROUP_NAME: my-resource-group  # Numele grupului de resurse Azure
+  RESOURCE_GROUP_NAME: nicoleta_group  # Numele grupului de resurse Azure
 
 on:
   push:
